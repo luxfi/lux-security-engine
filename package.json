@@ -4,8 +4,7 @@
   "main": "dist/index.js",
   "scripts": {
     "test": "jest",
-    "build": "rimraf dist && tsc",
-    "prepublishOnly": "yarn test && yarn build"
+    "build": "rimraf dist && tsc"
   },
   "repository": {
     "type": "git",
