@@ -1,6 +1,6 @@
 {
-  "name": "@luxfi/lux-security-engine",
-  "version": "2.0.4",
+  "name": "@luxwallet/lux-security-engine",
+  "version": "1.8.11",
   "main": "dist/index.js",
   "scripts": {
     "test": "jest",
