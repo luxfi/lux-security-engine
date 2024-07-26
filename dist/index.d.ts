@@ -1,5 +1,5 @@
 import { RuleConfig, Level, Threshold } from "./rules";
-import { OpenApiService } from "@luxfi/lux-api";
+import { OpenApiService } from "@luxwallet/lux-api";
 export interface Result {
     id: string;
     level: Level;

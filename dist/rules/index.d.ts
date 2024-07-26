@@ -1,4 +1,4 @@
-import { OpenApiService } from "@luxfi/lux-api";
+import { OpenApiService } from "@luxwallet/lux-api";
 export interface ContractAddress {
     chainId: string;
     address: string;

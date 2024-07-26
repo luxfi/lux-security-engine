@@ -1,6 +1,6 @@
 {
   "name": "@luxwallet/lux-security-engine",
-  "version": "1.8.11",
+  "version": "1.8.12",
   "main": "dist/index.js",
   "scripts": {
     "test": "jest",
@@ -28,8 +28,8 @@
     "typescript": "^4.6.4"
   },
   "peerDependencies": {
-    "@luxfi/common": "^0.3.5",
-    "@luxfi/lux-api": "^0.6.9"
+    "@luxwallet/common": "^0.3.5",
+    "@luxwallet/lux-api": "^0.6.9"
   },
   "packageManager": "yarn@1.22.22",
   "types": "./dist/index.d.ts",
